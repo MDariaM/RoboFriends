@@ -1,5 +1,5 @@
 # robofriends
-Tutorial for udemy course - React
+My first project on React
 To run the project:
 
 1. Clone this repo
